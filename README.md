@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lakshmisindhu11
-- 👀 I’m interested in Web Developement.
+- 👀 I’m interested in learning new things as a fresher I am open to all roles.
 - 🌱 I’m currently learning DSA in C++.
 - 💞️ Looking forward to building great things together.
 - 📫 How to reach me devanaboinalakshmisindhu@gmail.com
